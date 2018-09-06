@@ -1,5 +1,4 @@
 # hello-world
-Esse repositório representa a minha jornada inicial no mundo da aprendizagem do Front-end e suas ferramentas. 06/09/18. Mudanças ocorrerão.
 Notas do autor:
   Nome: Wilian Assis
   Idade: 20, mas deveria estar fazendo isso com 17 anos. Uma pena que perdi tanto tempo, né?!
